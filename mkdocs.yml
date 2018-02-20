@@ -48,6 +48,7 @@ pages:
       - Orchestration: docs/tutorials/orchestration.md
       - Authorization: docs/tutorials/authorization.md
       - Data Loading: docs/tutorials/data-loading.md
+      - Server-Side Extension: docs/tutorials/server-side-extension.md
       # - Document Distribution: docs/tutorials/document-distribution.md
       - Scalability:
         - Overview: docs/tutorials/scalability/overview.md
@@ -72,6 +73,7 @@ pages:
           - Generic Variable: docs/services/qix-engine/apis/qix/genericvariable.md
           - Field: docs/services/qix-engine/apis/qix/field.md
           - Variable: docs/services/qix-engine/apis/qix/variable.md
+        - Analytics Connector API: docs/services/qix-engine/apis/server-side-extension/server-side-extension.md
         - Data Connector API:
           - Introduction: docs/services/qix-engine/apis/data-loading/introduction.md
           - API Specification: docs/services/qix-engine/apis/data-loading/data-connector-api.md
